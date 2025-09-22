@@ -16,7 +16,7 @@ Aprender a resolver conflictos que pueden ocurrir cuando múltiples personas tra
    Versión desarrollada en rama feature
    ```
 
-3. Haz commit de estos cambios:
+   3. Haz commit de estos cambios:
    ```bash
    git add mi-proyecto.md
    git commit -m "Añadir información en rama feature"
